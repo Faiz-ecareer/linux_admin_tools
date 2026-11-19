@@ -25,6 +25,10 @@ Production-inspired Bash utilities, troubleshooting tools, and operational autom
 ## backup  
 ### automated_backup.sh  
 
+Provide specific directories after the command. Example- sudo ./automated_backup.sh /etc /home/faiz
+
+The Location of the backup is predefined in - /var/backups/linux_admin
+
 ## monitoring  
 ### server_monitor.sh  
 
