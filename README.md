@@ -28,5 +28,3 @@ Production-inspired Bash utilities, troubleshooting tools, and operational autom
 ## monitoring  
 ### server_monitor.sh  
 
-├── README.md
-└── LICENSE
