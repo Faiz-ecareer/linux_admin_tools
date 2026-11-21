@@ -7,16 +7,14 @@ Production-inspired Bash utilities, troubleshooting tools, and operational autom
 ### disk_monitor.sh  
 
 ## users  
-### user_management.sh  
-### bulk_user_creation.sh  
+### user_management.sh    
 
 ## services  
 ### service_monitor.sh  
 ### service_manager.sh  
 
 ## security  
-### ssh_audit.sh  
-### permission_audit.sh  
+### ssh_audit.sh    
 
 ## logs  
 ### log_analyzer.sh  
